@@ -8,8 +8,8 @@
 
 
     <!-- Font Awesome JS -->
-    <!-- <link rel="stylesheet" type="text/css" href="{{ asset('assets/admin/css/style.css') }}"> -->
-    <link rel="stylesheet" type="text/css" href="assets/admin/css/style.css">
-    <!-- <link rel="stylesheet" type="text/css" href="{{ asset('assets/admin/css/media.css') }}"> -->
-    <link rel="stylesheet" type="text/css" href='assets/admin/css/media.css'>
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/admin/css/style.css') }}">
+    <!-- <link rel="stylesheet" type="text/css" href="assets/admin/css/style.css"> -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/admin/css/media.css') }}">
+    <!-- <link rel="stylesheet" type="text/css" href='assets/admin/css/media.css'> -->
 

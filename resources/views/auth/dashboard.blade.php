@@ -3,15 +3,7 @@
 
     <section id="home-page" class="section-padding">
         <div class="container">
-
-
-
-
-
-
-
             <div class="row">
-
                 <div class="col-lg-12 pb-4">
                     <div class="section-heading mb-4">
                         <h2>Dashboard <small>CONTROL PANEL</small></h2>
@@ -23,11 +15,11 @@
                                 <div class="dashboard-content">
                                 <div class="d-flex">
                                     <div class="dashboard-img">
-                                       <img src="images/delivery-truck.svg">
+                                       <img src="../assets/admin/images/delivery-truck.svg"/>   
                                     </div>
                                     <div class="dashboard-txt ml-3">
-                                        <h3>Total Number of Mover's</h3>
-                                        <p>20</p>
+                                        <h3>Total Vehicle</h3>
+                                        <p>4</p>
                                     </div>
                                 </div> 
                             </div>
@@ -44,11 +36,11 @@
                                 <div class="dashboard-content">
                                 <div class="d-flex">
                                     <div class="dashboard-img">
-                                       <img src="images/user.svg">
+                                       <img src="../assets/admin/images/challan.svg"/>   
                                     </div>
                                     <div class="dashboard-txt ml-3">
-                                        <h3>Total Number of Customer's</h3>
-                                        <p>40</p>
+                                        <h3>Total challan</h3>
+                                        <p>10</p>
                                     </div>
                                 </div> 
                             </div>
@@ -73,10 +65,10 @@
                                 <div class="dashboard-content">
                                 <div class="d-flex">
                                     <div class="dashboard-img">
-                                       <img src="images/verified.svg">
+                                       <img src="../assets/admin/images/s3.svg"/>   
                                     </div>
                                     <div class="dashboard-txt ml-3">
-                                        <h3>New Enquiry</h3>
+                                        <h3>Insurance</h3>
                                         <p>20</p>
                                     </div>
                                 </div> 
@@ -94,10 +86,10 @@
                                 <div class="dashboard-content">
                                 <div class="d-flex">
                                     <div class="dashboard-img">
-                                       <img src="images/live-leads.svg">
+                                       <img src="../assets/admin/images/s2.svg"/>   
                                     </div>
                                     <div class="dashboard-txt ml-3">
-                                        <h3>Live Leads</h3>
+                                        <h3>Permit</h3>
                                         <p>20</p>
                                     </div>
                                 </div> 
@@ -115,10 +107,10 @@
                                 <div class="dashboard-content">
                                 <div class="d-flex">
                                     <div class="dashboard-img">
-                                       <img src="images/expired.svg">
+                                       <img src="../assets/admin/images/pollution.svg"/>   
                                     </div>
                                     <div class="dashboard-txt ml-3">
-                                        <h3>Expired Leads</h3>
+                                        <h3>Pollution</h3>
                                         <p>20</p>
                                     </div>
                                 </div> 
@@ -134,15 +126,15 @@
                             <a href="rejectedleads.php">
                             <div class="dashboard-details">
                                 <div class="dashboard-content">
-                                <div class="d-flex">
-                                    <div class="dashboard-img">
-                                       <img src="images/delete.svg">
-                                    </div>
-                                    <div class="dashboard-txt ml-3">
-                                        <h3>Rejected Leads</h3>
-                                        <p>40</p>
-                                    </div>
-                                </div> 
+                                    <div class="d-flex">
+                                        <div class="dashboard-img">
+                                        <img src="../assets/admin/images/approval-service.svg"/>   
+                                        </div>
+                                        <div class="dashboard-txt ml-3">
+                                            <h3>Fitness</h3>
+                                            <p>4</p>
+                                        </div>
+                                    </div> 
                             </div>
                             </a>
                             <div class="bg-dashboard">
@@ -161,7 +153,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="dashboard-details">
-                                <div class="section-heading mb-4">
+                                <div class="section-heading top">
                                     <h1>New Enquiries</h1>
                                 </div>
                                 <div class="section-content2">
@@ -199,7 +191,7 @@
                         </div>
                        
                         <div class="col-lg-6">
-                            <div class="section-heading mb-4">
+                            <div class="section-heading top">
                                 <h1>Live Leads</h1>
                             </div>
                             <div class="section-content2">
@@ -241,8 +233,8 @@
                 <div class="col-lg-12 py-4">
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="section-heading mb-4">
-                                <h1>Rejected Leads <small>Control panel</small></h1>
+                            <div class="section-heading top">
+                                <h1>Rejected Leads <small> </small></h1>
                             </div>
                             <div class="section-content2">
                                 <div class="section-content-body text-center">
@@ -275,7 +267,7 @@
                         </div>
                        
                         <div class="col-lg-6">
-                            <div class="section-heading mb-4">
+                            <div class="section-heading top">
                                 <h1>Expired Leads</h1>
                             </div>
                            <div class="section-content2">
@@ -317,8 +309,8 @@
 
                 <div class="col-lg-12 py-4">
           
-                    <div class="section-heading mb-4">
-                        <h1>Approval Services <small>Control panel</small></h1>
+                    <div class="section-heading top">
+                        <h1>Approval Services <small></small></h1>
                     </div>
                   
                     <div class="row">

@@ -7,5 +7,5 @@
     <script src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.datatables.net/responsive/2.2.6/js/responsive.bootstrap4.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.ckeditor.com/ckeditor5/22.0.0/classic/ckeditor.js"></script>
-    <!-- <script  src="{{ asset('../assets/admin/js/custom.js') }}"></script> -->
-    <script  src="assets/admin/js/custom.js"></script>
+    <script  src="{{ asset('../assets/admin/js/custom.js') }}"></script>
+    {{-- <script  src="assets/admin/js/custom.js"></script> --}}

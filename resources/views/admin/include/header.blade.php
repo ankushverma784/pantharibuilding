@@ -7,7 +7,7 @@
                 </li>
 
                 <li>
-                    <a href="index.php">
+                    <a href="dashboard">
                         <i class="fa fa-home" aria-hidden="true"></i>
                         <span class="dashboard-menu">Dashboard</span>
                     </a>
@@ -16,15 +16,21 @@
                 <li>
                     <a href="#pageSubmenu1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle d-flex">
                         <i class="fas fa-user-tie dropdown-option"></i>
-                        <span class="dropdown-txt">User</span>
+                        <span class="dropdown-txt">Customer</span>
                         <i class="fas fa-angle-right d-flex align-items-center justify-content-center"></i>
                     </a>
                     <ul class="collapse list-unstyled dropdown-sidenav" id="pageSubmenu1">
                         <li>
-                            <a href="moversresult.php">Movers</a>
+                            <a href="add">Add Customer</a>
                         </li>
                         <li>
-                            <a href="customersresult.php">Customers</a>
+                            <a href="manage">Manage Customer</a>
+                        </li>
+                        <li>
+                            <a href="transaction">Transaction History</a>
+                        </li>
+                        <li>
+                            <a href="payment">Manage Payment</a>
                         </li>
                     </ul>
                 </li>
